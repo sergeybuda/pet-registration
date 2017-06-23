@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# pet-registration
+## Application which registers pets into the system
 
 *Default Structure for A Basic Project*
 
